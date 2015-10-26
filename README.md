@@ -1,4 +1,4 @@
-react-rocket
+https://github.com/jakemmarsh/react-rocket-boilerplate
 ============
 
 A boilerplate using ReactJS (along with React Router and RefluxJS), SASS, Gulp, and Browserify that also utilizes Gulp best practices from [this resource](https://github.com/greypants/gulp-starter).
